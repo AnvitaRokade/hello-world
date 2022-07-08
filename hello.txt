@@ -1,3 +1,3 @@
 Hello Artifactory and Sonar
 Todays date is 8 July 2022
-jenkins scripted pipeline
+jenkins scripted pipeline2
