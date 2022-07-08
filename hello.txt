@@ -1,1 +1,2 @@
 Hello Artifactory and Sonar
+Todays date is 8 July 2022
